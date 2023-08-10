@@ -2,7 +2,7 @@
 
 # El procesador o CPU
 
-![Untitled](%C2%BFCo%CC%81mo%20funciona%20una%20PC%20y%20que%20hace%20cada%20pieza%20Compo%20edaea5eb79f345d284da988fb91ddbf5/Untitled.png)
+![CPU.png](CPU.png)
 
 # Te has preguntado ¿Por qué Sillcon Valley es la capital de los centros de tecnología?
 
@@ -28,23 +28,25 @@ En la computadora también se necesita que se almacena la información.
 
 Esto se lleva a cabo en los discos duros.
 
-![Untitled](%C2%BFCo%CC%81mo%20funciona%20una%20PC%20y%20que%20hace%20cada%20pieza%20Compo%20edaea5eb79f345d284da988fb91ddbf5/Untitled%201.png)
+![Memoria.png](Memoria.png)
 
 Pero ahora esta evolucionando al M.2
 
-![Untitled](%C2%BFCo%CC%81mo%20funciona%20una%20PC%20y%20que%20hace%20cada%20pieza%20Compo%20edaea5eb79f345d284da988fb91ddbf5/Untitled%202.png)
+![Memoria2.png](Memoria2.png)
 
 Lo que hace es almacenar la información como datos es decir 1 y 0.
 
 # ¿Porqué almacenamos datos? | La esencia de la ciencia de datos
 
-![Untitled](%C2%BFCo%CC%81mo%20funciona%20una%20PC%20y%20que%20hace%20cada%20pieza%20Compo%20edaea5eb79f345d284da988fb91ddbf5/Untitled%203.png)
 
 ## Tycho Brahe
 
-![Untitled](%C2%BFCo%CC%81mo%20funciona%20una%20PC%20y%20que%20hace%20cada%20pieza%20Compo%20edaea5eb79f345d284da988fb91ddbf5/Untitled%204.png)
+![TychoBrahe.png](TychoBrahe.png)
 
 ## Johannes Kepler
+
+![Kepler.png](Kepler.png)
+
 
 Tycho Brahe y Johannes Kepler querían saber porque los planetas se movían como pero como faltaban años para que Isaac Newton desarrollara el calculo, entonces empezaron a dibujar el movimiento de los planetas con la esperanza de que alguien lo descubriera en el futuro. Es es la esencia de la ciencia de datos almacenarlos para que alguien los utilice en el futuro. Por eso es que necesitamos guardar datos en nuestra computadora
 
@@ -54,7 +56,7 @@ Sin embargo el tratar de guardar todos esos datos es un proceso extremadamente l
 
 Para solucionar esto es que se invento la Memoria RAM 
 
-![Untitled](%C2%BFCo%CC%81mo%20funciona%20una%20PC%20y%20que%20hace%20cada%20pieza%20Compo%20edaea5eb79f345d284da988fb91ddbf5/Untitled%205.png)
+![RAM.png](RAM.png)
 
 ### ¿Qué significa RAM?
 
@@ -70,11 +72,11 @@ En vez de que el procesador trabaje directamente con los datos en el almacenamie
 
  
 
-![Untitled](%C2%BFCo%CC%81mo%20funciona%20una%20PC%20y%20que%20hace%20cada%20pieza%20Compo%20edaea5eb79f345d284da988fb91ddbf5/Untitled%206.png)
+![Almacenamiento.png](Almacenamiento.png)
 
 # En la Motherboard
 
-![Untitled](%C2%BFCo%CC%81mo%20funciona%20una%20PC%20y%20que%20hace%20cada%20pieza%20Compo%20edaea5eb79f345d284da988fb91ddbf5/Untitled%207.png)
+![Motherboard.png](Motherboard.png)
 
 Es la conexión de muchos de los elementos anteriormente mencionados. 
 
@@ -106,7 +108,7 @@ La corriente que fluye se queda en el camino y se convierte en calor.
 
 Si lo dejáramos correr como si nada el procesador se quemaría, para eso existe el disipador 
 
-![Untitled](%C2%BFCo%CC%81mo%20funciona%20una%20PC%20y%20que%20hace%20cada%20pieza%20Compo%20edaea5eb79f345d284da988fb91ddbf5/Untitled%208.png)
+![Disipador.png](Disipador.png)
 
 Un disipador es un ventilador con un sistema de bombeo de agua que refresca nuestro ordenador.
 
@@ -122,17 +124,17 @@ Es el administrador del procesador que recibe las señales de todos los elemento
 
 El procesador puede hacer cálculos de cualquier cosa. Excepto los cálculos de pantalla.
 
-![Untitled](%C2%BFCo%CC%81mo%20funciona%20una%20PC%20y%20que%20hace%20cada%20pieza%20Compo%20edaea5eb79f345d284da988fb91ddbf5/Untitled%209.png)
+![TarjetaGrafica.png](TarjetaGrafica.png)
 
 Lo que nosotros vemos en pantalla no son más que puntos de colores ordenados que en conjuntos y visto desde lejos forma una imagen. También llamados pixeles
 
-![Untitled](%C2%BFCo%CC%81mo%20funciona%20una%20PC%20y%20que%20hace%20cada%20pieza%20Compo%20edaea5eb79f345d284da988fb91ddbf5/Untitled%2010.png)
+![MarioBros.png](MarioBros.png)
 
 ## Para videojuegos o efectos especiales
 
 Para hacer cosas más sofisticadas que simples gráficos como imagen tridimensionales o imágenes poligonales , comúnmente en videojuegos o efectos especiales necesitan una tarjeta grafica dedicada, que convierte imágenes graficas de 3D a 2D.
 
-![Untitled](%C2%BFCo%CC%81mo%20funciona%20una%20PC%20y%20que%20hace%20cada%20pieza%20Compo%20edaea5eb79f345d284da988fb91ddbf5/Untitled%2011.png)
+![Videojuegos.png](Videojuegos.png)
 
 ## ¿Cómo funciona?
 
@@ -142,7 +144,7 @@ Recuerda que todo en la computadora son datos. Al abrir el juego el procesador l
 
 El procesador le dice a la tarjeta grafica los datos para calcularlos y mostrarlos en pantalla 
 
-![Untitled](%C2%BFCo%CC%81mo%20funciona%20una%20PC%20y%20que%20hace%20cada%20pieza%20Compo%20edaea5eb79f345d284da988fb91ddbf5/Untitled%2012.png)
+![OverWatch.png](OverWatch.png)
 
 > *"Tranquilo cariño, ya llego la caballería". -Tracer, Ovewatch*
 > 
@@ -153,13 +155,13 @@ El procesador le dice a la tarjeta grafica los datos para calcularlos y mostrarl
 
 BIOS son las siglas de Basic Input Output System. Se puede decir que es el intermediario entre los elementos del hardware y el software. Cuando nosotros iniciamos nuestra PC el BIOS se encarga de asegurarse que todo este funcionando correctamente y como debería. 
 
-![Untitled](%C2%BFCo%CC%81mo%20funciona%20una%20PC%20y%20que%20hace%20cada%20pieza%20Compo%20edaea5eb79f345d284da988fb91ddbf5/Untitled%2013.png)
+![BIOS.png](BIOS.png)
 
 ---
 
 ## La Caja
 
-![Untitled](%C2%BFCo%CC%81mo%20funciona%20una%20PC%20y%20que%20hace%20cada%20pieza%20Compo%20edaea5eb79f345d284da988fb91ddbf5/Untitled%2014.png)
+![LaCaja.png](LaCaja.png)
 
 Sencillamente es una forma de protección del hardware 
 
@@ -175,7 +177,7 @@ Si quieres más información mira el video completo
 
 # Sobre el autor
 
-![IMG_0380.jpg](%C2%BFCo%CC%81mo%20funciona%20una%20PC%20y%20que%20hace%20cada%20pieza%20Compo%20edaea5eb79f345d284da988fb91ddbf5/IMG_0380.jpg)
+![Autor.jpg](Autor.jpg)
 
 ### Fernando Sánchez Mejía
 
@@ -185,11 +187,8 @@ Si quieres más información mira el video completo
 
 # Redes Sociales
 
-![Untitled](%C2%BFCo%CC%81mo%20funciona%20una%20PC%20y%20que%20hace%20cada%20pieza%20Compo%20edaea5eb79f345d284da988fb91ddbf5/Untitled%2015.png)
 
-[Log In or Sign Up to View](https://www.facebook.com/fernando.sanchezmejia.98/)
-
-![Untitled](%C2%BFCo%CC%81mo%20funciona%20una%20PC%20y%20que%20hace%20cada%20pieza%20Compo%20edaea5eb79f345d284da988fb91ddbf5/Untitled%2016.png)
+![LinkedIn.png](LinkedIn.png)
 
 [Fernando Sanchez Mejia - Consultor de TI Assurance - Risk Advisory - Deloitte | LinkedIn](http://linkedin.com/in/fernando-sanchez-mejia)
 
