@@ -177,19 +177,6 @@ Si quieres más información mira el video completo
 
 # Sobre el autor
 
-![Autor.jpg](Autor.jpg)
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
-### Fernando Sánchez Mejía
-
-### ITIL Fundamentals v4
-
-### Consultor de TI - Risk Advisory - Deloitte
-
-# Redes Sociales
-
-
-![LinkedIn.png](LinkedIn.png)
-
-[Fernando Sanchez Mejia - Consultor de TI Assurance - Risk Advisory - Deloitte | LinkedIn](http://linkedin.com/in/fernando-sanchez-mejia)
-
-[¿Cómo elegir una computadora?](https://www.notion.so/C-mo-elegir-una-computadora-c2e3d81f9f68464d9de7df1e6e7d394d?pvs=21)
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="fernando-sanchez-mejia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/fernando-sanchez-mejia?trk=profile-badge">Fernando Sanchez Mejia</a></div>
